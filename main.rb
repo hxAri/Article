@@ -1,1 +1,1 @@
-require "lib/article"
+require "lib/atarashi"
